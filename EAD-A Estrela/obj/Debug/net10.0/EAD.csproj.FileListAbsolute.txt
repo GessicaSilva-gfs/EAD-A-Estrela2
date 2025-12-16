@@ -1,0 +1,14 @@
+C:\Users\Gege\source\repos\EAD\EAD\bin\Debug\net10.0\EAD.exe
+C:\Users\Gege\source\repos\EAD\EAD\bin\Debug\net10.0\EAD.deps.json
+C:\Users\Gege\source\repos\EAD\EAD\bin\Debug\net10.0\EAD.runtimeconfig.json
+C:\Users\Gege\source\repos\EAD\EAD\bin\Debug\net10.0\EAD.dll
+C:\Users\Gege\source\repos\EAD\EAD\bin\Debug\net10.0\EAD.pdb
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.AssemblyInfoInputs.cache
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.AssemblyInfo.cs
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.csproj.CoreCompileInputs.cache
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.dll
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\refint\EAD.dll
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.pdb
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\EAD.genruntimeconfig.cache
+C:\Users\Gege\source\repos\EAD\EAD\obj\Debug\net10.0\ref\EAD.dll
